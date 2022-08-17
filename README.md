@@ -1,1 +1,1 @@
-![Oh no, the gif broke](https://c.tenor.com/82Rr2PPBCtIAAAAd/cat-jam-cat.gif)
+<img src="https://camo.githubusercontent.com/517d1deb0bd30040699e0e8042d344962cab0e56c4af680168bccab5db906a77/68747470733a2f2f632e74656e6f722e636f6d2f383252723250504243744941414141642f6361742d6a616d2d6361742e676966" alt="Oh no, the gif broke" data-canonical-src="https://c.tenor.com/82Rr2PPBCtIAAAAd/cat-jam-cat.gif" style="display: inline-block;" data-target="animated-image.originalImage" width="200" height="200">
